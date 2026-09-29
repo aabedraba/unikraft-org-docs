@@ -1,0 +1,32 @@
+.github/workflows/.gitleaks.toml
+  s_94fe22b5992769::t_fba44c23a7a52c 1-5,8,10,12
+  s_94fe22b5992769::t_a16fd9b7967c0a 6-7,9,11
+context7.json
+  h_633e979248a6ea 1-4
+public/context7.json
+  h_633e979248a6ea 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "50bdc17527cc3d2cfbafaee7db4f1250377bc4c2",
+  "prompts": {},
+  "humans": {
+    "h_3a8cdd8dbdd7a3": {
+      "author": "aabedraba <abdallah@unikraft.com>"
+    },
+    "h_633e979248a6ea": {
+      "author": "aabedraba <a@abedraba.com>"
+    }
+  },
+  "sessions": {
+    "s_94fe22b5992769": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5cdbd539-7f4c-4bde-b953-3a47728f05f7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
