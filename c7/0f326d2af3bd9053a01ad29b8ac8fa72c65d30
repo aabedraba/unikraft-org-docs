@@ -1,0 +1,19 @@
+context7.json
+  h_633e979248a6ea 1-4
+public/context7.json
+  h_633e979248a6ea 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c70f326d2af3bd9053a01ad29b8ac8fa72c65d30",
+  "prompts": {},
+  "humans": {
+    "h_3a8cdd8dbdd7a3": {
+      "author": "aabedraba <abdallah@unikraft.com>"
+    },
+    "h_633e979248a6ea": {
+      "author": "aabedraba <a@abedraba.com>"
+    }
+  }
+}
