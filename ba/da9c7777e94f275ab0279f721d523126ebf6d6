@@ -1,0 +1,16 @@
+context7.json
+  h_633e979248a6ea 1-4
+public/context7.json
+  h_633e979248a6ea 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bada9c7777e94f275ab0279f721d523126ebf6d6",
+  "prompts": {},
+  "humans": {
+    "h_633e979248a6ea": {
+      "author": "aabedraba <a@abedraba.com>"
+    }
+  }
+}
